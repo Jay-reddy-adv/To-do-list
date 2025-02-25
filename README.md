@@ -4,7 +4,7 @@
 A simple To-Do List Android application built using Java in Android Studio. This app allows users to add, view, and delete tasks, with data persistence using SharedPreferences.
 
 
-**📖 Features**
+**📖 Features** :
 
 ✅ Add new tasks
 
@@ -16,7 +16,7 @@ A simple To-Do List Android application built using Java in Android Studio. This
 
 
 
-**🚀 Technologies Used**
+**🚀 Technologies Used** :
 
 ✅ Java
 
